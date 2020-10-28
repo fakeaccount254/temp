@@ -1,9 +1,18 @@
 {
   "summary": {
-    "title": "My First Threat Model"
+    "title": "My First Threat Model",
+    "description": "This is a temp",
+    "owner": "Temp Owner"
   },
   "detail": {
     "contributors": [],
-    "diagrams": []
+    "diagrams": [
+      {
+        "title": "Temp",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Temp Reviewer"
   }
 }
